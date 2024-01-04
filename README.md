@@ -1,4 +1,4 @@
-### <div align="center">3년차 백엔드 개발자, 조서희 입니다. 👨‍💻 </div>  
+### <div align="center">백엔드 개발자, 조서희 입니다. 👨‍💻 </div>  
   
 
 - 🔭 Corp: Kurly  
